@@ -6,7 +6,8 @@
 4) Hit Insert-Module
 5) Paste the code in Module1
 6) Close the Visual Basic Editor
+7) Open the Excel file that contain your locked VBA Projects
 7) Goto Tools - Macro
 8) Open Book1!RecoverBytes and Run the Macro
 9) Open Book1!Unprotected and Run the Macro
-10) Enjoy
+10)Enjoy
