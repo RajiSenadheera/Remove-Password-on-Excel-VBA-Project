@@ -6,6 +6,6 @@
 4) Paste the code in Module1
 5) Close the Visual Basic Editor
 6) Goto Tools - Macro
-7) Open Book1!RecoverBytes and Run 
-8) Open Book1!Unprotected and Run 
+7) Open Book1!RecoverBytes and Run the Macro
+8) Open Book1!Unprotected and Run the Macro
 9) Enjoy
